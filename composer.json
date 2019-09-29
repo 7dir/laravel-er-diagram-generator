@@ -3,15 +3,15 @@
     "description": "Generate ER diagrams from your Laravel models.",
     "keywords": [
         "7dir",
-        "laravel-er-diagram-generator"
+        "laravel-er-diagram-generator6"
     ],
-    "homepage": "https://github.com/7dir/laravel-er-diagram-generator",
+    "homepage": "https://github.com/7dir/laravel-er-diagram-generator6",
     "license": "MIT",
     "authors": [
         {
             "name": "M",
             "email": "mltefive@gmail.com",
-            "homepage": "https://github.com/7dir/laravel-er-diagram-generator",
+            "homepage": "https://github.com/7dir/laravel-er-diagram-generator6",
             "role": "Developer"
         }
     ],
@@ -30,7 +30,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/7dir/laravel-er-diagram-generator"
+            "url": "https://github.com/7dir/laravel-er-diagram-generator6"
         }
     ],
     "extra": {
