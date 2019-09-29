@@ -33,6 +33,11 @@
             "url": "https://github.com/7dir/laravel-er-diagram-generator"
         }
     ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.4.0"
+        }
+    },    
     "autoload": {
         "psr-4": {
             "BeyondCode\\ErdGenerator\\": "src"
