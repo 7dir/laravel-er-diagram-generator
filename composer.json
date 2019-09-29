@@ -1,17 +1,17 @@
 {
-    "name": "beyondcode/laravel-er-diagram-generator",
+    "name": "7dir/laravel-er-diagram-generator",
     "description": "Generate ER diagrams from your Laravel models.",
     "keywords": [
-        "beyondcode",
+        "7dir",
         "laravel-er-diagram-generator"
     ],
-    "homepage": "https://github.com/beyondcode/laravel-er-diagram-generator",
+    "homepage": "https://github.com/7dir/laravel-er-diagram-generator",
     "license": "MIT",
     "authors": [
         {
-            "name": "Marcel Pociot",
-            "email": "marcel@beyondco.de",
-            "homepage": "https://beyondcode.de",
+            "name": "M",
+            "email": "mltefive@gmail.com",
+            "homepage": "https://github.com/7dir/laravel-er-diagram-generator",
             "role": "Developer"
         }
     ],
@@ -27,6 +27,12 @@
         "phpunit/phpunit": "^7.0| ^8.0",
         "spatie/phpunit-snapshot-assertions": "^1.3"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/7dir/laravel-er-diagram-generator"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "BeyondCode\\ErdGenerator\\": "src"
