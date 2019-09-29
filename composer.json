@@ -33,7 +33,6 @@
             "url": "https://github.com/7dir/laravel-er-diagram-generator6"
         }
     ],
-    // stable
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
